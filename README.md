@@ -2,7 +2,7 @@
 
 I'm Matt, a Software Engineer based in London, UK.
 
-I'm experienced building full-stack applications for clients with Python (FastAPI & Flask), Typescript (React), and deploying them on the cloud using Azure, Docker, Terraform, and CI/CD.
+I'm experienced building full-stack applications for clients with Python (FastAPI & Flask), Java (Spring), Typescript (React), and deploying them on the cloud using Azure, Docker, Terraform, and CI/CD.
 
 I've previously worked at a London consultancy for 2+ years, engineering data-sensitive public sector applications end-to-end. I've recently built my own projects from scratch - such as [superguitartab.com.](https://superguitartab.com)
 
