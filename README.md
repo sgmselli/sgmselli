@@ -1,12 +1,10 @@
 ## Hi there! 👋
 
-I'm Matt, a Software Engineer based in London, UK.
+I'm Matt, a Software Engineer based in London, UK, with 2+ years of experience in Python development across financial services and technology consultancy.
 
-I'm experienced building full-stack applications for clients with Python (FastAPI & Flask), Java (Spring), Typescript (React), and deploying them on the cloud using Azure, Docker, Terraform, and CI/CD.
+I am currently a Python engineer at BNP Paribas CIB, providing technical solutions for the financial risk data platform.
 
-I've previously worked at a London consultancy for 2+ years, engineering data-sensitive public sector applications end-to-end. I've recently built my own projects from scratch - such as [superguitartab.com.](https://superguitartab.com)
-
-I'm currently seeking positions at high-growth companies using modern technologies where I can have ownership of new features and grow along with the company.
+I also have client-facing consultancy experience in delivering cloud-native services using Python, Java, JavaScript, AWS, Azure, Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines.
 
 Feel free to reach me via:
 - Email: sellings.dev@gmail.com
